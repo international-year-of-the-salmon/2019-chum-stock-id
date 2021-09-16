@@ -1,0 +1,14 @@
+Laboratory Chum Salmon Genetic Stock ID by SNP Sequencing Protocols from the 2019 Gulf of Alaska International Year of the Salmon Expedition
+
+Sample collection:
+1)For minimum 50 specimens (or all if lesser amount caught) of chum salmon at each trawl station, fork length, wet weight, sex and maturity (maturing or immature if possible) are recorded, and scales are collected from the preferred body area (or another area if not available).
+2)Genetic sample (adipose fin or another fin tissue) and one pair of otoliths are collected from each fish (n=50 in max) and preserved in a microtube with 95-99% ethanol.
+3)Genetic and otolith samples collected will be analyzed at the Hokkaido National Fisheries Research Institute (HNFRI) in Sapporo.
+
+Sample analyses (to be done in lab):
+
+SNP genotyping:
+DNA will be extracted using Puregene DNA purification kit (QIAGEN) following the manufacturer’s instructions. After DNA extraction, each sample will be genotyped for 45 nuclear SNP loci by TaqMan chemistry.  These SNP markers were developed by Alaska Department of Fish and Game (Elfstrom et al. 2007; Smith et al. 2005a; Smith et al. 2005b).  Genotyping assays are performed in 384-well reaction plates.  Each reaction is conducted in a 5-ɥl volume consisting of 5-10ng of template DNA in 1×TaqMan Genotyping Master Mix (Applied Biosystems, Carlsbad, CA), 900nM each PCR primer, and 200nM each probe.  Thermal cycling is performed on a Dual 384-Well GeneAmp PCR System 9700 (Applied Biosystems).  Thermal cycling is performed on a Dual 384-Well GeneAmp PCR System 9700 (Applied Biosystems).  The plates are read on an ABI PRISM 7900HT Sequence Detection System (Applied Biosystems) after amplification and scored using Sequence Detection Software version 2.3/2.4 or TaqMan Genotyper Software version 1.0 (Life Technologies, Carlsbad, CA).
+
+Stock estimates:
+Stock contributions of collected chum salmon will be estimated by a conditional maximum likelihood using a SNP baseline dataset from 186 populations in the Pacific Rim.
